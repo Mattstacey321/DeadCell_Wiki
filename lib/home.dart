@@ -1,6 +1,4 @@
-import 'dart:developer';
 import 'dart:ui';
-
 import 'package:DeadCellWiki/category_detail.dart';
 import 'package:DeadCellWiki/config/AppConstrant.dart';
 import 'package:DeadCellWiki/drawer.dart';
